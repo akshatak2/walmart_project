@@ -36,6 +36,14 @@ project-root
 └── main.py              # Main script for loading, cleaning, and processing data
 ```
 
+## Key Features
+- Comprehensive data preprocessing
+  
+- Multi-database integration
+  
+- Advanced SQL querying
+  
+- Detailed exploratory data analysis
 ## Main Analysis Steps
 1.Download Walmart sales dataset using Kaggle API
 
