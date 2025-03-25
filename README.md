@@ -45,14 +45,14 @@ project-root
   
 - Detailed exploratory data analysis
 ## Main Analysis Steps
-1.Download Walmart sales dataset using Kaggle API
+1. Download Walmart sales dataset using Kaggle API
 
-2.Preprocess and clean data
+2. Preprocess and clean data
 
-3.Load data into MySQL and PostgreSQL
+3. Load data into MySQL and PostgreSQL
 
-4.Perform complex SQL analysis
+4. Perform complex SQL analysis
 
-5.Generate business insights
+5. Generate business insights
 
 
