@@ -8,6 +8,7 @@ This project is an data analysis solution designed to extract critical business 
 Dataset link : [Walmart sales](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 
 ## Project structure
+***
 project-root/
 │
 ├── data/                 # Raw data and transformed data
@@ -21,3 +22,4 @@ project-root/
 ├── requirements.txt      # List of required Python libraries
 │
 └── main.py               # Main script for loading, cleaning, and processing data
+***
