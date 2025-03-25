@@ -50,9 +50,9 @@ project-root
 2. Preprocess and clean data
 
 3. Load data into MySQL and PostgreSQL
+   
+5. Perform complex SQL analysis
 
-4. Perform complex SQL analysis
-
-5. Generate business insights
+6. Generate business insights
 
 
