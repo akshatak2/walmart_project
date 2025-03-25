@@ -5,6 +5,6 @@ This project is an data analysis solution designed to extract critical business 
 
 ## Dataset : Walmart sales data
 
-Dataset link : [Walmart sales] (https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
+Dataset link : [Walmart sales](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 
 ## Project structure
